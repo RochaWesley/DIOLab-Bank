@@ -1,0 +1,16 @@
+C:\workspace\dio-lab-01\DIOLab-Bank\bin\Debug\net5.0\DIOLab-Bank.exe
+C:\workspace\dio-lab-01\DIOLab-Bank\bin\Debug\net5.0\DIOLab-Bank.deps.json
+C:\workspace\dio-lab-01\DIOLab-Bank\bin\Debug\net5.0\DIOLab-Bank.runtimeconfig.json
+C:\workspace\dio-lab-01\DIOLab-Bank\bin\Debug\net5.0\DIOLab-Bank.runtimeconfig.dev.json
+C:\workspace\dio-lab-01\DIOLab-Bank\bin\Debug\net5.0\DIOLab-Bank.dll
+C:\workspace\dio-lab-01\DIOLab-Bank\bin\Debug\net5.0\ref\DIOLab-Bank.dll
+C:\workspace\dio-lab-01\DIOLab-Bank\bin\Debug\net5.0\DIOLab-Bank.pdb
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.csproj.AssemblyReference.cache
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.AssemblyInfoInputs.cache
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.AssemblyInfo.cs
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.csproj.CoreCompileInputs.cache
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.dll
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\ref\DIOLab-Bank.dll
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.pdb
+C:\workspace\dio-lab-01\DIOLab-Bank\obj\Debug\net5.0\DIOLab-Bank.genruntimeconfig.cache
